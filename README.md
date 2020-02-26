@@ -1,2 +1,3 @@
 # hello-world
-Just for getting started on GitHub
+Just learning about branching!
+This is cool.
